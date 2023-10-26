@@ -2635,4 +2635,9 @@ input, select, textarea {
 	display: block;
 	width: 600px;
 }
-
+@media (max-width: 768px) {
+    /* Styles for smaller screens */
+    .navbar {
+        /* Your styles for the navigation bar */
+    }
+}
