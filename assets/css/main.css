@@ -27,7 +27,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	* 
-    margin: 15px;
+    margin: 25px;
 }
 
 ol, ul {
@@ -86,6 +86,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
+		margin left:20px;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
